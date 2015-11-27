@@ -1,0 +1,9 @@
+E:\Projects\TestGIT\TG\TG\bin\Debug\TG.exe
+E:\Projects\TestGIT\TG\TG\bin\Debug\TG.pdb
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\TG.Form1.resources
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\TG.Properties.Resources.resources
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\TG.exe
+E:\Projects\TestGIT\TG\TG\obj\x86\Debug\TG.pdb
